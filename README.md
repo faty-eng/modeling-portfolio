@@ -12,7 +12,7 @@ This project is a fully responsive, multi-page modeling portfolio website create
 ---
 
 ## 📌 Live Website  
-🔗 **https://faty-eng.github.io/modeling-portfolio/**  
+🔗 **[https://faty-eng.github.io/modeling-portfolio](https://faty-eng.github.io/modeling-portfolio/)/**  
 The site is fully deployed and accessible online through GitHub Pages.
 
 ---
