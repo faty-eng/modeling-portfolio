@@ -403,7 +403,6 @@ section {
     transform: translateY(0);
   }
 }
-<<<<<<< HEAD
 
 /* Fade-In Scroll Animation */
 .fade-section {
@@ -416,5 +415,4 @@ section {
     opacity: 1;
     transform: translateY(0);
 }
-=======
->>>>>>> 5e4f19c9fc32f29502be0b406cb0fe069ba8b61a
+
